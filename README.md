@@ -60,13 +60,28 @@ npm install deck.gl
 - [Get started](/docs/get-started/using-with-react.md)
 - [Full examples](/examples/get-started/react)
 
+
+
+
+### Third-Party Bindings
+
+- [deckgl-typings](https://github.com/danmarshall/deckgl-typings) (Typescript)
+- [mapdeck](https://symbolixau.github.io/mapdeck/articles/mapdeck.html) (R)
+- [vega-deck.gl](https://github.com/microsoft/SandDance/tree/master/packages/vega-deck.gl) ([Vega](https://vega.github.io/))
+- [earthengine-layers](https://earthengine-layers.com/) ([Google Earth Engine](https://earthengine.google.com/))
+- [deck.gl-native](https://github.com/UnfoldedInc/deck.gl-native) (C++)
+
+
+## Community-developed deck.gl packages
+
+
+
 #### Vue JS
 ```bash
 npm install @hirelofty/vue_deckgl
 ```
 - [Get started](https://loftylabs.github.io/vue_deckgl/)
 - [Full examples](https://loftylabs.github.io/vue_deckgl/instant)
-
 
 ### Python
 
@@ -77,13 +92,6 @@ pip install pydeck
 - [Get started](https://pydeck.gl/installation.html)
 - [Examples](https://pydeck.gl/)
 
-### Third-Party Bindings
-
-- [deckgl-typings](https://github.com/danmarshall/deckgl-typings) (Typescript)
-- [mapdeck](https://symbolixau.github.io/mapdeck/articles/mapdeck.html) (R)
-- [vega-deck.gl](https://github.com/microsoft/SandDance/tree/master/packages/vega-deck.gl) ([Vega](https://vega.github.io/))
-- [earthengine-layers](https://earthengine-layers.com/) ([Google Earth Engine](https://earthengine.google.com/))
-- [deck.gl-native](https://github.com/UnfoldedInc/deck.gl-native) (C++)
 
 ## Learning Resources
 
